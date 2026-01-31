@@ -81,7 +81,7 @@ const CookieConsent = () => {
     <div className="fixed m-8 rounded-xl bottom-0 left-0 right-0 bg-gray-800 text-white p-4 flex flex-col md:flex-row items-center justify-between shadow-lg z-50 gap-3 md:gap-0">
       <p className="text-sm md:text-base text-center md:text-left">
         We use cookies to enhance your experience. By continuing to visit this
-        site, you agree to our use of cookies. .
+        site, you agree to our use of cookies.
       </p>
       <div className="flex gap-2">
         <button
